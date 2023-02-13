@@ -4,10 +4,10 @@ This generator helps to quickly setup a basic tailwind.config.js file for your p
 
 ## Features now available:
 
--   Define _content_
--   Setup _container_ center, padding & max width
--   Define custom _colors_ (extend or replace)
--   Add _plugins_
+-   Define **content**
+-   Setup **container** center, padding & max width
+-   Define custom **colors** (extend or replace)
+-   Add **plugins**
 
 ## Future additions
 
