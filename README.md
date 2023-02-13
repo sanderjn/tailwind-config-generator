@@ -1,6 +1,7 @@
 # TailwindCSS Config Generator
 
 This generator helps to quickly setup a basic tailwind.config.js file for your project.
+[Try it out here](https://sanderjanssen.dev/tailwindconfig/).
 
 ## Features now available:
 
