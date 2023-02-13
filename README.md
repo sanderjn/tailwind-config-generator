@@ -3,15 +3,16 @@
 This generator helps to quickly setup a basic tailwind.config.js file for your project.
 [Try it out here](https://sanderjanssen.dev/tailwindconfig/).
 
-## Features now available:
+## Features
 
 -   Define **content**
 -   Setup **container** center, padding & max width
 -   Define custom **colors** (extend or replace)
 -   Add **plugins**
 
-## Future additions
+## Roadmap
 
--   Define custom breakpoints
--   Add custom fonts
--   Custom spacing
+-   [ ] Remove empty lines from code output
+-   [ ] Define custom breakpoints
+-   [ ] Add custom fonts
+-   [ ] Custom spacing
