@@ -3,6 +3,7 @@
     "tailwindcss": "^3.2.6"
   },
   "scripts": {
+    "build": "tailwindcss -i ./src/css/tailwind.css -o ./dist/css/tailwind.css",
     "dev": "tailwindcss -i ./src/css/tailwind.css -o ./dist/css/tailwind.css --watch"
   },
   "dependencies": {
